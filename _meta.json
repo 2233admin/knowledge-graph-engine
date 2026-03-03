@@ -1,0 +1,10 @@
+{
+  "owner": "2233admin",
+  "slug": "knowledge-graph-engine",
+  "displayName": "Knowledge Graph Engine (KGE)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772533011927,
+    "description": "Typed knowledge graph + causal inference engine for structured agent memory and composable skills. Enhanced with causal reasoning, root cause analysis (5 Whys), and success attribution."
+  }
+}
