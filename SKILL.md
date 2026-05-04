@@ -1,5 +1,6 @@
 ---
 name: ontocausal
+version: 1.0.0
 description: Typed knowledge graph + causal inference engine for structured agent memory and composable skills. Enhanced with causal reasoning, root cause analysis (5 Whys), and success attribution. Use when creating/querying entities (Person, Project, Task, Event, Document), linking related objects, enforcing constraints, planning multi-step actions as graph transformations, or when skills need to share state. Trigger on "remember", "what do I know about", "link X to Y", "show dependencies", "why did this fail", "what caused success", entity CRUD, or cross-skill data access.
 ---
 
